@@ -1,5 +1,4 @@
 # Accenture-developer-and-technology-virtual-experience
-
 # Task One: Discover Career Opportunities in Technology:
 - Dispel some common myths about careers in technology.
 - What technical and non-technical positions exist in the tech industry,.
